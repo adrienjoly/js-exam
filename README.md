@@ -1,3 +1,7 @@
+**WARNING: This version is deprecated, not supported. Use at your own risk!**
+
+*If you are interested in an up-to-date version, please contact me by creating an issue on this repo.*
+
 Coding Exam for Javascript course students
 ==========================================
 
